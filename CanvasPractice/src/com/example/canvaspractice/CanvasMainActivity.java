@@ -22,6 +22,7 @@ public class CanvasMainActivity extends ActionBarActivity {
 	Bitmap mBitmap;
 	Paint paint;
 	boolean test;
+	boolean test2;
 
 	GestureDetector gd;
 
